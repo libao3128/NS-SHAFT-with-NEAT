@@ -1,5 +1,4 @@
 # NS-SHAFT-with-NEAT
-Team member:黃立鈞、簡言哲、卓灝辰、廖振亦
 
 利用NEAT(NeuroEvolution of Augmenting Topologies)演算法讓AI操控經典電腦遊戲「小朋友下樓梯」。
 遊戲中，玩家可以操控左右方向鍵讓小朋友向左或向右移動，隨著平台不斷上升，目標是讓小朋友能夠往下最多的樓層數。
@@ -31,4 +30,4 @@ Team member:黃立鈞、簡言哲、卓灝辰、廖振亦
 2. [visualize.py](https://github.com/CodeReclaimers/neat-python/blob/master/examples/xor/visualize.py?fbclid=IwAR2UfJ_GkPcvN0Hen4RpTXbQbcZD_YSSh7mSYZ66Z1cAsatyfJbUycOnkLg)
 visualize是NEAT_Python中包含將模型視覺化的檔案，需要另外安裝[Graphviz](https://graphviz.org/)套件才能使用，方便我們了解現在模型的node、connection、weight等相關資訊。
 
-在使用前請先安裝上述兩個library，請參閱report.pdf來了解我們的研究結果。
+在使用前請先安裝上述兩個library，請參閱來了解我們的研究結果。
