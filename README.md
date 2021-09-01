@@ -1,4 +1,11 @@
+
 # HS-Shaft with Neat
+## Demostration
+
+
+https://user-images.githubusercontent.com/71310428/131636424-e1e12e3d-a895-4f4b-8c8b-c3b129b8d4a3.mp4
+
+
 ## Introduction to the problem 
 利用NEAT(NeuroEvolution of Augmenting Topologies)演算法讓AI操控經典電腦遊戲「小朋友下樓梯」。
 遊戲中，玩家可以操控左右方向鍵讓小朋友向左或向右移動，隨著平台不斷上升，目標是讓小朋友能夠往下最多的樓層數。
